@@ -14,7 +14,7 @@ The data gathered is then split into cities located in the Northern and Southern
 
 ## Submission
 This repository contains:
-- A CSV of all retrieved data `Output/weather_df.csv
+- A CSV of all retrieved data `Output/weather_df.csv`
 - PNG images for all scatter plots in the `Output` folder
 - Jupyter notebook script `WeatherPy.ipynb` with data analysis and observations on the generated plots
 
