@@ -17,8 +17,8 @@ This script contains code that uses the Google API to generate a heatmap based o
 
 ## Submission
 This repository contains:
-- A CSV of all retrieved data `Output/weather_df.csv`
-- Images for all scatter plots in the `Output` folder
-- A screenshot of the percent humidity heatmap marked with recommended hotels
 - Jupyter notebook script `WeatherPy.ipynb` with data analysis and observations on the generated plots
-- Jupyter notebook script `VacationPy.ipynb`
+  - A CSV located in `Output/weather_df.csv` of all retrieved data
+  - Images for all scatter plots in the `Output` folder
+- Jupyter notebook script `VacationPy.ipynb`with code generating heatmaps and hotel recommendations
+  - A screenshot `hotels_heatmap.png` of the percent humidity heatmap marked with recommended hotels
